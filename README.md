@@ -58,7 +58,7 @@ A junior web developer based in Nigeria, I’m currently learning React JS and h
 
 
 # 👇One of my best project so far
-![Screenshot 2022-08-03 160422](https://user-images.githubusercontent.com/110548965/182644249-74bafa24-ed33-4952-9707-b3720bc77f35.png)
 
 #### I developed a Finance company landing page that displays financial records of personnel and helps to promote business. The aim of the project was to attract the users with the UI, which i built with HTML/CSS and JavaScript.
 You can check around the site at https://frkayo.netlify.app/
+![Screenshot 2022-08-03 160422](https://user-images.githubusercontent.com/110548965/182644249-74bafa24-ed33-4952-9707-b3720bc77f35.png)
