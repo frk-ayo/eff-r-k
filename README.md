@@ -15,7 +15,6 @@ A Frontend web developer
 
 * 🌍  I'm based in Lagos, Nigeria.
 * ✉️  You can contact me at [mustaphafarouk41@gmail.com](mailto:mustaphafarouk41@gmail.com)
-* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on JavaScript based project
 
 ### Skills
