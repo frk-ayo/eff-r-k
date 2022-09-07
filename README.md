@@ -33,8 +33,4 @@ A Frontend web developer
 <!-- <a href="https://github.com/eff-r-k" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eff-r-k&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
 
-# 👇One of my best project so far
 
-#### I developed a Finance company landing page that displays financial records of personnel and helps to promote business. The aim of the project was to attract the users with the UI, which i built with HTML/CSS and JavaScript.
-You can check around the site at https://frkayo.netlify.app/
-![Screenshot 2022-08-03 160422](https://user-images.githubusercontent.com/110548965/182644249-74bafa24-ed33-4952-9707-b3720bc77f35.png)
